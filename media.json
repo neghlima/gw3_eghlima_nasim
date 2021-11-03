@@ -1,0 +1,32 @@
+{
+  "images": [
+  "/src/media/images2.jpg",
+  "/src/media/images3.jpg",
+  "/src/media/images5.jpg",
+  "/src/media/images15.png",
+  "/src/media/images16.jpeg",
+  "/src/media/images8.jpg",
+  "/src/media/images9.jpg",
+  "/src/media/images10.jpg",
+  "/src/media/images11.jpg",
+  "/src/media/images12.jpg",
+  "/src/media/images13.png",
+  "/src/media/images14.jpg"
+
+  ],
+  "links": [
+    "/src/media/images2.jpg",
+    "/src/media/images3.jpg",
+    "/src/media/images5.jpg",
+    "/src/media/images15.png",
+    "/src/media/images16.jpeg",
+    "/src/media/images8.jpg",
+    "/src/media/images9.jpg",
+    "/src/media/images10.jpg",
+    "/src/media/images11.jpg",
+    "/src/media/images12.jpg",
+    "/src/media/images13.png",
+    "/src/media/images14.jpg"
+    
+  ]
+}
